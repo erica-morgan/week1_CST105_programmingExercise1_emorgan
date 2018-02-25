@@ -1,0 +1,2 @@
+# week1_CST105_programmingExercise1_emorgan
+Introductory Program
